@@ -1,0 +1,2 @@
+s/<script language=javascript>eval\(String.fromCharCode\([,[:digit:][:space:]]+\)\);<\/script>//g
+s/String.fromCharCode\([,[:digit:][:space:]]+\)//g
