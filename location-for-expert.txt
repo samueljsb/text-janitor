@@ -1,0 +1,2 @@
+<script language=javascript>eval\(String\.fromCharCode\([,\d\s]+\)\);<\/script>
+String\.fromCharCode\([,\d\s]+\)
